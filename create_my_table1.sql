@@ -1,0 +1,4 @@
+CREATE TABLE MyTable (
+    ID INT PRIMARY KEY,
+    Name NVARCHAR(100)
+);
